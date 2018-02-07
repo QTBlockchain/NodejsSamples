@@ -1,0 +1,23 @@
+{
+  "name": "nodemodulesdemo",
+  "version": "1.0.0",
+  "description": "This is for the demo of node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "request": "~2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QTBlockchain/NodejsSamples.git"
+  },
+  "author": "khaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QTBlockchain/NodejsSamples/issues"
+  },
+  "homepage": "https://github.com/QTBlockchain/NodejsSamples#readme"
+}
